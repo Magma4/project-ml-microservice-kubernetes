@@ -1,4 +1,4 @@
-[![Magma4](https://circleci.com/gh/magma4/project-ml-microservice-kubernetes.svg?style=shield)] (https://app.circleci.com/pipelines/github/Magma4/project-ml-microservice-kubernetes/3/workflows/f31a464d-8825-4ef8-acc3-94fc0888c99e/jobs/ii3)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Magma4/project-ml-microservice-kubernetes/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Magma4/project-ml-microservice-kubernetes/tree/main)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
